@@ -1,168 +1,237 @@
-# <div align="center">
-#   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Enthusiast;🎯+Problem+Solver;📚+Continuous+Learner;⭐+Creative+Developer" alt="Typing SVG" />
-# </div>
 
-# <div align="center">
-#   <a href="https://www.linkedin.com/in/naveya-b-51b531350">
-#     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-#   </a>
-#   <a href="mailto:naveyab2006@gmail.com">
-#     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-#   </a>
-#   <a href="https://github.com/NaveyaB">
-#     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-#   </a>
-#   <img src="https://komarev.com/ghpvc/?username=NaveyaB&color=FF6B9D&style=for-the-badge" alt="Profile Views">
-# </div>
+<div align="center">
 
-# ---
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:58A6FF,100:0D1117&text=Naveya%20B&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Learner&descAlignY=60"/>
 
-# ## <div align="center">✨ About Me - The Developer's Journey ✨</div>
+<br>
 
-# <p align="center">
-#   <i>Started coding on a 📱, now building dreams with 💻</i>
-# </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Learner;Building+Real+World+Projects;Open+to+Internships;Future+Software+Engineer" />
 
-# I'm **Naveya B**, a passionate **B.Sc Computer Science student** from India on a mission to create meaningful digital experiences. My unique journey began on a mobile phone, which taught me resilience, consistency, and the power of dedication. Now, I'm channeling that energy into building **scalable web applications** that make a difference.
+<br><br>
 
-# <div align="center">
-#   <table>
-#     <tr>
-#       <td width="33%">
-#         <b>🎯 Current Focus</b><br>
-#         Building Production-Ready<br>Full Stack Applications
-#       </td>
-#       <td width="33%">
-#         <b>📖 Learning</b><br>
-#         Next.js • TypeScript<br>DSA in Java
-#       </td>
-#       <td width="33%">
-#         <b>🌟 Expertise</b><br>
-#         MERN Stack<br>Modern Web Design
-#       </td>
-#     </tr>
-#   </table>
-# </div>
+<a href="https://www.linkedin.com/in/naveya-b-51b531350">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-# ---
+<a href="mailto:naveyab2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-# ## <div align="center">🛠️ Tech Arsenal</div>
+<a href="https://github.com/NaveyaB">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-# <div align="center">
-#   <h3>Frontend Mastery</h3>
-#   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
-#   
-#   <h3>Backend & Database</h3>
-#   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,java,python" />
-#   
-#   <h3>Tools & Deployment</h3>
-#   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma,firebase" />
-# </div>
+<br><br>
 
-# ---
+<img src="https://komarev.com/ghpvc/?username=NaveyaB&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
 
-# ## <div align="center">🚀 Featured Projects</div>
+</div>
 
-# <div align="center">
+---
 
-# | 🏆 Project | 📚 Description | 🔧 Tech Stack | ⭐ Status |
-# |:---|:---|:---|:---|
-# | **📈 Habit Tracker** | Track your daily habits with beautiful visualizations & progress analytics | MERN, Chart.js, Redux | Active |
-# | **🎬 Netflix Clone** | Streaming UI with authentication, responsive design & dynamic content | React, Firebase, Tailwind | Active |
-# | **🌱 Self Improvement Hub** | Comprehensive learning platform with community features | Node.js, MongoDB, EJS | Active |
-# | **💼 Portfolio** | Personal portfolio showcasing projects & achievements | Next.js, TypeScript, Tailwind | Upcoming |
+# 👨‍💻 About Me
 
-# </div>
+<table>
+<tr>
 
-# ---
+<td width="60%">
 
-# ## <div align="center">📊 GitHub Analytics Dashboard</div>
+Hi, I'm **Naveya B**, a passionate **B.Sc Computer Science Student** from Tamil Nadu, India 🇮🇳.
 
-# <div align="center">
-#   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NaveyaB&show_icons=true&theme=nightowl&hide_border=true&count_private=true&bg_color=0d1117&text_color=58a6ff&icon_color=ff6b9d" />
-#   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveyaB&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&text_color=58a6ff" />
-# </div>
+My development journey started with learning programming on a mobile device and gradually evolved into building full-stack applications and real-world projects.
 
-# <div align="center">
-#   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=NaveyaB&theme=dark&hide_border=true&background=0d1117&ring=ff6b9d&fire=ff6b9d&currStreakNum=58a6ff" />
-# </div>
+Currently, I am focused on mastering the MERN Stack, improving my problem-solving skills, and gaining practical software development experience.
 
-# <div align="center">
-#   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaveyaB&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=ff6b9d&point=ff6b9d" />
-# </div>
+### 🚀 Quick Highlights
 
-# ---
+- 💻 Full Stack Developer in Progress
+- 🌱 Learning MERN Stack & Next.js
+- 📚 Practicing DSA using Java
+- 🎯 Looking for Internship Opportunities
+- ⚡ Building Projects Consistently
+- 🚀 Future Software Engineer
 
-# ## <div align="center">🏆 Achievements & Trophies</div>
+</td>
 
-# <div align="center">
-#   <img src="https://github-profile-trophy.vercel.app/?username=NaveyaB&theme=dark&no-frame=true&column=7&margin-w=15&bg_color=0d1117" alt="GitHub Trophies" />
-# </div>
+<td width="40%">
 
-# ---
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
-# ## <div align="center">💡 Quick Facts About Me</div>
+</td>
 
-# <div align="center">
-#   <table>
-#     <tr>
-#       <td>
-#         <b>🎓</b> B.Sc Computer Science
-#       </td>
-#       <td>
-#         <b>💻</b> Self-taught Developer
-#       </td>
-#     </tr>
-#     <tr>
-#       <td>
-#         <b>🌍</b> Based in India
-#       </td>
-#       <td>
-#         <b>🎯</b> Open for Internships & Collaborations
-#       </td>
-#     </tr>
-#     <tr>
-#       <td>
-#         <b>🚀</b> 50+ Projects
-#       </td>
-#       <td>
-#         <b>⚡</b> Always Shipping Code
-#       </td>
-#     </tr>
-#   </table>
-# </div>
+</tr>
+</table>
 
-# ---
+---
 
-# ## <div align="center">💬 Let's Connect & Collaborate!</div>
+# 🛠️ Tech Stack
 
-# <div align="center">
-#   <p>
-#     <b>I'm always open to exciting opportunities, collaborations, and learning from the developer community!</b>
-#   </p>
-#   
-#   <a href="https://www.linkedin.com/in/naveya-b-51b531350">
-#     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-#   </a>
-#   <a href="mailto:naveyab2006@gmail.com">
-#     <img src="https://img.shields.io/badge/Email%20Me-naveyab2006@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-#   </a>
-#   <a href="https://github.com/NaveyaB">
-#     <img src="https://img.shields.io/badge/Follow%20My%20Work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-#   </a>
-# </div>
+<div align="center">
 
-# ---
+### Frontend
 
-# <div align="center">
-#   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808f61ef7b7d68b891633e8a60d666e6d8/bottom_header.svg" />
-# </div>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs"/>
 
-# <div align="center">
-#   <h3>💭 Developer's Creed</h3>
-#   <i>"Great code is like great art – it's elegant, purposeful, and speaks to the soul."</i>
-#   <br><br>
-#   <b>Thank you for visiting! Don't forget to ⭐ if you found this inspiring.</b>
-#   <br><br>
-#   <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20%E2%98%95-FF6B9D?style=for-the-badge" />
-# </div>
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,javascript"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+</tr>
+
+<tr>
+<td>📈 Habit Tracker App</td>
+<td>Track habits, daily streaks, productivity and progress analytics.</td>
+<td>React, Node.js, Express, MongoDB</td>
+</tr>
+
+<tr>
+<td>🎬 Netflix Clone</td>
+<td>Streaming platform clone with authentication and responsive UI.</td>
+<td>Next.js, Node.js, MongoDB</td>
+</tr>
+
+<tr>
+<td>🌱 Self Improvement Web App</td>
+<td>Task manager, habit tracker and productivity dashboard.</td>
+<td>HTML, CSS, JavaScript</td>
+</tr>
+
+<tr>
+<td>🏢 Marca-Rise Agency Website</td>
+<td>Modern responsive business website.</td>
+<td>React, JavaScript</td>
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=NaveyaB&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=NaveyaB&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveyaB&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveyaB&theme=github-compact"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NaveyaB&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+✅ Master MERN Stack
+
+✅ Learn TypeScript
+
+✅ Improve DSA Skills
+
+✅ Build More Full Stack Projects
+
+✅ Contribute to Open Source
+
+✅ Secure a Software Development Internship
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/naveya-b-51b531350">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:naveyab2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NaveyaB">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💭 Favorite Quote
+
+<div align="center">
+
+> **Learn. Build. Improve. Repeat.**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Thanks+for+Visiting+My+Profile!;Let's+Build+Something+Amazing!;Happy+Coding!+🚀"/>
+
+<br><br>
+
+### ⭐ Thanks for Visiting
+
+I am continuously learning, building, and improving every day.
+
+If you're a student, developer, recruiter, or tech enthusiast, feel free to connect with me and explore my projects.
+
+🚀 Let's learn, build, and grow together.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:58A6FF,100:0D1117"/>
+
+</div>
+
