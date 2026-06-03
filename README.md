@@ -1,170 +1,80 @@
-# Naveya B
-
-### Full Stack Developer | B.Sc Computer Science Student
-
-Building practical web applications using the MERN Stack and continuously improving my problem-solving skills through real-world projects.
-
-📍 Tamil Nadu, India
-🎓 B.Sc Computer Science
-🌱 Currently learning MERN Stack, Next.js, TypeScript, and DSA in Java
-🎯 Seeking internship opportunities and real-world development experience
-
----
-
-## About Me
-
-I'm a Computer Science student passionate about building web applications that solve real problems.
-
-I enjoy working on both frontend and backend development, learning new technologies, and turning ideas into functional products.
-
-Currently focused on:
-
-* Full Stack Web Development
-* React & Next.js
-* Node.js & Express.js
-* MongoDB & MySQL
-* Data Structures & Algorithms
-* Real-World Project Development
-
----
-
-## Tech Stack
-
-### Frontend
-
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-
-### Backend
-
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-
-### Database
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-### Tools
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-
----
-
-## Featured Projects
-
-### Habit Tracker Application
-
-A productivity-focused application that helps users build habits and maintain daily streaks.
-
-**Features**
-
-* User Authentication
-* Habit Tracking
-* Daily Streak System
-* Progress Monitoring
-* Responsive Design
-
-**Tech Stack**
-
-* React
-* Node.js
-* Express.js
-* MongoDB
-
-**Repository:** Add Link
-
----
-
-### Netflix Clone
-
-A modern streaming platform clone built to practice full-stack development concepts.
-
-**Features**
-
-* User Authentication
-* Movie Browsing
-* Search Functionality
-* Responsive UI
-
-**Tech Stack**
-
-* Next.js
-* Node.js
-* MongoDB
-
-**Repository:** Add Link
-
----
-
-### Self Improvement Web App
-
-An application focused on productivity and personal growth.
-
-**Features**
-
-* To-Do Management
-* Habit Tracking
-* Stopwatch
-* Goal Management
-
-**Tech Stack**
-
-* HTML
-* CSS
-* JavaScript
-
-**Repository:** Add Link
-
----
-
-## GitHub Statistics
+# Hi there, I'm Naveya B 👋
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NaveyaB&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=NaveyaB&theme=github-dark-blue&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Full+Stack+Developer+In+The+Making;MERN+Stack+Enthusiast;B.Sc+Computer+Science+Student;Problem+Solver+&amp;+Tech+Learner" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveyaB&layout=compact&theme=github_dark&hide_border=true" />
+### 🚀 About Me
+
+I am a passionate **B.Sc Computer Science Student** and an aspiring **Full Stack Developer** who loves building things for the web. 
+
+- 🔭 **Currently working on:** Habit Tracker App, Netflix Clone & Self Improvement Web App.
+- 🌱 **Learning Path:** Mastering **MERN Stack**, Next.js, TypeScript, and sharpening **DSA with Java**.
+- 🎯 **Goal:** Looking for **Internship Opportunities** to contribute to real-world projects.
+- 🔥 **My Story:** I started my coding journey on a **mobile phone** 📱. This taught me resourcefulness and a "never-give-up" attitude. Now, I build projects every single day!
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,java,git,github,vscode,postman,vercel&perline=8" />
 </p>
 
 ---
 
-## Contribution Activity
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **📈 Habit Tracker** | Productivity app with streaks & progress monitoring. | React, Node.js, MongoDB |
+| **🎬 Netflix Clone** | Modern streaming UI with high-quality features. | React, Tailwind, Firebase |
+| **🌱 Self Growth App** | All-in-one dashboard for tasks & productivity. | MERN Stack |
+| **🌐 Portfolio** | Personal dev portfolio showcasing my journey. | Next.js, Tailwind |
+
+---
+
+### 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveyaB&theme=github-compact" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NaveyaB&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveyaB&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=NaveyaB&theme=radical&hide_border=true" />
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveyaB&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## Current Goals
+### 🤝 Connect With Me
 
-* Build more Full Stack Projects
-* Master MERN Stack
-* Learn TypeScript
-* Improve DSA Skills
-* Contribute to Open Source
-* Secure a Software Development Internship
-
----
-
-## Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/naveya-b-51b531350
-* Email: [naveyab2006@gmail.com](mailto:naveyab2006@gmail.com)
-* GitHub: https://github.com/NaveyaB
+<p align="left">
+  <a href="https://www.linkedin.com/in/naveya-b-51b531350" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:naveyab2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/NaveyaB">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-> "Learn. Build. Improve. Repeat."
+### ⚡ Quick Stats & Fun Facts
+- 💬 Ask me about: **HTML, CSS, JS, React & GitHub**.
+- 🧠 I believe in: **Learn. Build. Improve. Repeat.**
+- 🌠 Profile Views: ![Views](https://komarev.com/ghpvc/?username=NaveyaB&label=Profile%20Views&color=0e75b6&style=flat-square)
 
-Thanks for visiting my profile.
+---
+
+<p align="center">
+  <b>Thanks for visiting! Feel free to explore my repos and ⭐ if you like my work!</b>
+</p>
