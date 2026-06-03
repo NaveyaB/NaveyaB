@@ -1,4 +1,4 @@
-# Hi there! I'm [Unga Name] 👋 👨‍💻
+# Hi there! I'm Naveya B 👋 👨‍💻
 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?user=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR-GITHUB-USERNAME" />
@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-I'm a passionate **[Unga Role, eg: Full Stack Developer / Student]** from India. I love building things that live on the internet!
+I'm a passionate ** eg: Full Stack Developer** from India. I love building things that live on the internet!
 
 - 🔭 I’m currently working on **[Project Name]**
 - 🌱 I’m currently learning **[Technology Name, eg: Docker, Go, or AI]**
@@ -37,11 +37,6 @@ I'm a passionate **[Unga Role, eg: Full Stack Developer / Student]** from India.
 
 ---
 
-### 🎵 Currently Listening to...
-<!-- Optinal: Spotify connect panna ithu working-a irukum -->
-[![Spotify](https://novatorem-spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
----
 
 ### 🤝 Connect with me
 <p align="left">
