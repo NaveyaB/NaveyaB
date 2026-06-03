@@ -1,107 +1,168 @@
-# <p align="center">✨ Welcome to My Digital Space! I'm Naveya B ✨</p>
+# <div align="center">
+#   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Enthusiast;🎯+Problem+Solver;📚+Continuous+Learner;⭐+Creative+Developer" alt="Typing SVG" />
+# </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
-</p>
+# <div align="center">
+#   <a href="https://www.linkedin.com/in/naveya-b-51b531350">
+#     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+#   </a>
+#   <a href="mailto:naveyab2006@gmail.com">
+#     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+#   </a>
+#   <a href="https://github.com/NaveyaB">
+#     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+#   </a>
+#   <img src="https://komarev.com/ghpvc/?username=NaveyaB&color=FF6B9D&style=for-the-badge" alt="Profile Views">
+# </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Internships-green?style=for-the-badge" />
-</p>
+# ---
 
----
+# ## <div align="center">✨ About Me - The Developer's Journey ✨</div>
 
-### 💫 About Me
+# <p align="center">
+#   <i>Started coding on a 📱, now building dreams with 💻</i>
+# </p>
 
-I am a driven **B.Sc Computer Science student** with a deep love for building scalable web applications. My journey is unique because **I started my coding life on a mobile phone** 📱, which built my foundation of consistency and hard work.
+# I'm **Naveya B**, a passionate **B.Sc Computer Science student** from India on a mission to create meaningful digital experiences. My unique journey began on a mobile phone, which taught me resilience, consistency, and the power of dedication. Now, I'm channeling that energy into building **scalable web applications** that make a difference.
 
-- 🔭 **Current Projects:** Building a Habit Tracker, Netflix Clone, and a Self-Improvement Hub.
-- 🌱 **Learning Lab:** Deep diving into **Next.js, TypeScript, and DSA using Java**.
-- 🚀 **Mission:** To bridge the gap between ideas and reality using the **MERN Stack**.
-- 💬 **Ask me about:** React, Node.js, or how to start coding with just a phone!
+# <div align="center">
+#   <table>
+#     <tr>
+#       <td width="33%">
+#         <b>🎯 Current Focus</b><br>
+#         Building Production-Ready<br>Full Stack Applications
+#       </td>
+#       <td width="33%">
+#         <b>📖 Learning</b><br>
+#         Next.js • TypeScript<br>DSA in Java
+#       </td>
+#       <td width="33%">
+#         <b>🌟 Expertise</b><br>
+#         MERN Stack<br>Modern Web Design
+#       </td>
+#     </tr>
+#   </table>
+# </div>
 
----
+# ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NaveyaB&theme=dracula&no-frame=true&column=7&margin-w=15" alt="github trophies" />
-</p>
+# ## <div align="center">🛠️ Tech Arsenal</div>
 
----
+# <div align="center">
+#   <h3>Frontend Mastery</h3>
+#   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+#   
+#   <h3>Backend & Database</h3>
+#   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,java,python" />
+#   
+#   <h3>Tools & Deployment</h3>
+#   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma,firebase" />
+# </div>
 
-### 🛠 My Tech Toolbox
+# ---
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      **Frontend**<br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-    </td>
-    <td align="center" width="33%">
-      **Backend & DB**<br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,java" />
-    </td>
-    <td align="center" width="33%">
-      **Tools & Deploy**<br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma" />
-    </td>
-  </tr>
-</table>
+# ## <div align="center">🚀 Featured Projects</div>
 
----
+# <div align="center">
 
-### 📂 Featured Projects
+# | 🏆 Project | 📚 Description | 🔧 Tech Stack | ⭐ Status |
+# |:---|:---|:---|:---|
+# | **📈 Habit Tracker** | Track your daily habits with beautiful visualizations & progress analytics | MERN, Chart.js, Redux | Active |
+# | **🎬 Netflix Clone** | Streaming UI with authentication, responsive design & dynamic content | React, Firebase, Tailwind | Active |
+# | **🌱 Self Improvement Hub** | Comprehensive learning platform with community features | Node.js, MongoDB, EJS | Active |
+# | **💼 Portfolio** | Personal portfolio showcasing projects & achievements | Next.js, TypeScript, Tailwind | Upcoming |
 
-<div align="center">
+# </div>
 
-| Project | Live Demo / Repo | Tech Stack |
-| :--- | :--- | :--- |
-| **📈 Habit Tracker** | [View Repo](https://github.com/NaveyaB) | `MERN Stack` `Chart.js` |
-| **🎬 Netflix Clone** | [View Repo](https://github.com/NaveyaB) | `React` `Firebase` `Tailwind` |
-| **🌱 Self Improvement** | [View Repo](https://github.com/NaveyaB) | `Node.js` `MongoDB` `EJS` |
+# ---
 
-</div>
+# ## <div align="center">📊 GitHub Analytics Dashboard</div>
 
----
+# <div align="center">
+#   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NaveyaB&show_icons=true&theme=nightowl&hide_border=true&count_private=true&bg_color=0d1117&text_color=58a6ff&icon_color=ff6b9d" />
+#   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveyaB&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&text_color=58a6ff" />
+# </div>
 
-### 📊 My GitHub Journey (Stats)
+# <div align="center">
+#   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=NaveyaB&theme=dark&hide_border=true&background=0d1117&ring=ff6b9d&fire=ff6b9d&currStreakNum=58a6ff" />
+# </div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NaveyaB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveyaB&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+# <div align="center">
+#   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaveyaB&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=ff6b9d&point=ff6b9d" />
+# </div>
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=NaveyaB&theme=tokyonight&hide_border=true&border_radius=5" />
-</p>
+# ---
 
-### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveyaB&theme=react-dark&hide_border=true" width="100%" />
-</p>
+# ## <div align="center">🏆 Achievements & Trophies</div>
 
----
+# <div align="center">
+#   <img src="https://github-profile-trophy.vercel.app/?username=NaveyaB&theme=dark&no-frame=true&column=7&margin-w=15&bg_color=0d1117" alt="GitHub Trophies" />
+# </div>
 
-### 🤝 Connect with Me
+# ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/naveya-b-51b531350" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:naveyab2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/NaveyaB">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+# ## <div align="center">💡 Quick Facts About Me</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NaveyaB&label=PROFILE%20VIEWS&color=00D1FF&style=flat-square" alt="views" />
-</p>
+# <div align="center">
+#   <table>
+#     <tr>
+#       <td>
+#         <b>🎓</b> B.Sc Computer Science
+#       </td>
+#       <td>
+#         <b>💻</b> Self-taught Developer
+#       </td>
+#     </tr>
+#     <tr>
+#       <td>
+#         <b>🌍</b> Based in India
+#       </td>
+#       <td>
+#         <b>🎯</b> Open for Internships & Collaborations
+#       </td>
+#     </tr>
+#     <tr>
+#       <td>
+#         <b>🚀</b> 50+ Projects
+#       </td>
+#       <td>
+#         <b>⚡</b> Always Shipping Code
+#       </td>
+#     </tr>
+#   </table>
+# </div>
 
----
+# ---
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
-  <b>Thanks for stopping by! ⭐ this repo if you like my journey.</b>
-</p>
+# ## <div align="center">💬 Let's Connect & Collaborate!</div>
+
+# <div align="center">
+#   <p>
+#     <b>I'm always open to exciting opportunities, collaborations, and learning from the developer community!</b>
+#   </p>
+#   
+#   <a href="https://www.linkedin.com/in/naveya-b-51b531350">
+#     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+#   </a>
+#   <a href="mailto:naveyab2006@gmail.com">
+#     <img src="https://img.shields.io/badge/Email%20Me-naveyab2006@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+#   </a>
+#   <a href="https://github.com/NaveyaB">
+#     <img src="https://img.shields.io/badge/Follow%20My%20Work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+#   </a>
+# </div>
+
+# ---
+
+# <div align="center">
+#   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808f61ef7b7d68b891633e8a60d666e6d8/bottom_header.svg" />
+# </div>
+
+# <div align="center">
+#   <h3>💭 Developer's Creed</h3>
+#   <i>"Great code is like great art – it's elegant, purposeful, and speaks to the soul."</i>
+#   <br><br>
+#   <b>Thank you for visiting! Don't forget to ⭐ if you found this inspiring.</b>
+#   <br><br>
+#   <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20%E2%98%95-FF6B9D?style=for-the-badge" />
+# </div>
