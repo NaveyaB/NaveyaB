@@ -161,22 +161,31 @@ Features:
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-![Snake animation](https://github.com/NaveyaB/NaveyaB/raw/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-profile-trophy.vercel.app/?username=NaveyaB&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
+# ⚡ Coding Activity
+
 <div align="center">
 
-### 💭 Favorite Quote
-
-> "Learn. Build. Improve. Repeat."
-
-⭐ Thanks for visiting my profile!
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveyaB&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&hide_border=true"/>
 
 </div>
+
+---
+
+# 💻 Development Journey
+
+```text
+2024 ────────────── Started Programming
+2025 ────────────── Web Development
+2026 ────────────── MERN Stack
+2026 ────────────── Full Stack Projects
+2027 ────────────── Software Engineer 🚀
