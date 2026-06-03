@@ -1,98 +1,229 @@
 <div align="center">
 
-<!-- Legendary Header with Soft Gradient & Animation -->
-<img src="https://capsule-render.vercel.app/api?type=soft&height=250&color=0:091E3A,50:2196F3,100:00D1FF&text=NAVEYA%20B&fontColor=ffffff&fontSize=80&animation=fadeIn&desc=BUILDING%20THE%20NEXT%20GEN%20WEB&descAlignY=65&descSize=25"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:36BCF7,100:0D1117&text=Naveya%20B&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Learner&descAlignY=60"/>
 
-<br/>
+<br>
 
-<!-- Modern Tech Typing - Smooth Transition -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Building+Real+World+Projects;MERN+Stack+Learner;Future+Software+Engineer;Open+to+Internships+and+Collaborations"/>
 
-<br/>
+<br><br>
 
-<!-- Social & Status Badges -->
-<p align="center">
-<a href="https://www.linkedin.com/in/naveya-b-51b531350" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:naveyab2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Status-Hiring_Ready-00D1FF?style=for-the-badge" />
-</p>
+<a href="https://www.linkedin.com/in/naveya-b-51b531350">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<!-- Profile Views - Minimal Style -->
-<img src="https://komarev.com/ghpvc/?username=NaveyaB&label=PROFILE+VIEWS&color=00D1FF&style=flat-square" />
+<a href="mailto:naveyab2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NaveyaB">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=NaveyaB&label=Profile+Views&color=36BCF7&style=for-the-badge"/>
 
 </div>
 
 ---
 
-### ⚡ The Legend Journey
-> *"It doesn't matter where you start, it matters how much you build."*
+# 👨‍💻 About Me
 
-I am a **B.Sc Computer Science** student with a unique story. My coding world began on a **mobile device** 📱. From writing simple scripts on a phone to building complex **Full Stack Applications**, my journey is fueled by pure passion and consistency.
+<table>
+<tr>
 
-- 🚀 **Currently:** Mastering **Next.js 14** & **TypeScript**.
-- 🧠 **Focus:** Deep diving into **DSA with Java** for optimized problem solving.
-- 🏗️ **Building:** Scalable MERN projects that solve real-world problems.
-- 💡 **Belief:** Clean code is a masterpiece.
+<td width="60%">
+
+### Hi, I'm Naveya 👋
+
+I'm a **B.Sc Computer Science Student** passionate about building modern web applications and solving real-world problems through technology.
+
+My journey started by learning development on a mobile phone, and today I'm actively building full-stack projects while improving my skills in software engineering.
+
+### 🚀 Quick Highlights
+
+* 💻 Full Stack Developer in Progress
+* 🌱 Learning MERN Stack & Next.js
+* 📚 Practicing DSA with Java
+* 🎯 Seeking Internship Opportunities
+* ⚡ Building Projects Consistently
+* 🚀 Future Software Engineer
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 🛠️ Tech Arsenal (Categorized)
+# 🛠️ Tech Stack
 
 <div align="center">
 
-| **Frontend** | **Backend & DB** | **Tools & Others** |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,java" /> |
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,java,git,github,vscode,postman,vercel&perline=5"/>
 
 </div>
 
 ---
 
-### 📊 Performance Analytics
+# 🚀 Featured Projects
 
-<p align="center">
-  <!-- Language Donut (Pie Chart) -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveyaB&layout=donut&theme=tokyonight&hide_border=true&title_color=00D1FF&text_color=ffffff" />
-  <!-- Contribution Stats -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NaveyaB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D1FF&text_color=ffffff" />
-</p>
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Status</th>
+</tr>
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=NaveyaB&theme=tokyonight&hide_border=true" />
-</p>
+<tr>
+<td>📈 Habit Tracker App</td>
+<td>Track habits, streaks, productivity and personal growth.</td>
+<td>🟢 Active</td>
+</tr>
+
+<tr>
+<td>🎬 Netflix Clone</td>
+<td>Streaming platform clone with authentication and responsive design.</td>
+<td>🟢 Active</td>
+</tr>
+
+<tr>
+<td>🌱 Self Improvement App</td>
+<td>Productivity dashboard with habits, goals and task tracking.</td>
+<td>🟢 Active</td>
+</tr>
+
+<tr>
+<td>🏢 Marca-Rise Agency Website</td>
+<td>Modern responsive business website.</td>
+<td>🟢 Active</td>
+</tr>
+
+</table>
 
 ---
 
-### 🏆 Excellence Badges
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NaveyaB&theme=tokyonight&no-frame=true&column=4&margin-w=20" />
-</p>
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NaveyaB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=NaveyaB&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveyaB&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveyaB&theme=react-dark&hide_border=true&color=00D1FF" width="100%" />
-</p>
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveyaB&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-### 📂 Featured Creations
-*Click the links to explore my top works*
+# 🏆 Achievements
 
-- 📊 **[Habit Tracker](https://github.com/NaveyaB)** - Full productivity suite with data viz.
-- 🎬 **[Netflix Clone](https://github.com/NaveyaB)** - High-fidelity UI with real-time API.
-- 🌱 **[Self-Improvement App](https://github.com/NaveyaB)** - All-in-one growth dashboard.
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NaveyaB&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+* MERN Stack Development
+* Next.js
+* TypeScript
+* DSA using Java
+* Backend Architecture
+* REST APIs
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build More Full Stack Projects
+
+✅ Master MERN Stack
+
+✅ Learn TypeScript
+
+✅ Improve DSA Skills
+
+✅ Contribute to Open Source
+
+✅ Secure a Software Development Internship
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/naveya-b-51b531350">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:naveyab2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Send%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NaveyaB">
+<img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💭 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-<!-- Legendary Footer with Reverse Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:00D1FF,100:091E3A&text=STAY%20CURIOUS.%20STAY%20CODING.&fontSize=25&fontColor=ffffff&fontAlignY=50"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Thanks+for+Visiting+My+Profile!;Let's+Build+Something+Amazing!;Happy+Coding!;See+You+Again!"/>
 
-<br/>
+<br><br>
 
-⭐ **If you like my journey, feel free to follow or star my repos!**
+### ⭐ Thanks for Visiting
+
+I’m continuously learning, building, and improving every day.
+
+If you're a student, developer, recruiter, or tech enthusiast, feel free to connect with me and explore my work.
+
+🚀 Let's learn, build, and grow together.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:36BCF7,100:0D1117"/>
 
 </div>
+```
