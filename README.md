@@ -1,46 +1,60 @@
 <div align="center">
-<!-- Header with Legend Style Smooth Animation -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=gradient&background=0D1117&text=NAVEYA%20B&fontSize=70&fontColor=58A6FF&animation=fadeIn&desc=BUILDING%20THE%20FUTURE%20WITH%20CODE&descAlignY=70&descSize=20"/>
+
+<!-- Legendary Header with Soft Gradient & Animation -->
+<img src="https://capsule-render.vercel.app/api?type=soft&height=250&color=0:091E3A,50:2196F3,100:00D1FF&text=NAVEYA%20B&fontColor=ffffff&fontSize=80&animation=fadeIn&desc=BUILDING%20THE%20NEXT%20GEN%20WEB&descAlignY=65&descSize=25"/>
 
 <br/>
 
-<!-- Legend Style Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Tech+Enthusiast" />
+<!-- Modern Tech Typing - Smooth Transition -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Future+Software+Engineer" />
 
 <br/>
 
-<!-- Profile Viewers Badge - Subtle & Clean -->
-<img src="https://komarev.com/ghpvc/?username=NaveyaB&label=PROFILE+VIEWS&color=58A6FF&style=flat-square" />
+<!-- Social & Status Badges -->
+<p align="center">
+<a href="https://www.linkedin.com/in/naveya-b-51b531350" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:naveyab2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Status-Hiring_Ready-00D1FF?style=for-the-badge" />
+</p>
+
+<!-- Profile Views - Minimal Style -->
+<img src="https://komarev.com/ghpvc/?username=NaveyaB&label=PROFILE+VIEWS&color=00D1FF&style=flat-square" />
 
 </div>
 
 ---
 
-### ⚡ Quick Byte
-I'm a **B.Sc Computer Science** student from TN, India 🇮🇳. My coding journey is unique—I mastered the basics using just a **mobile phone** 📱, and now I'm building full-scale web applications. I believe in consistency over talent.
+### ⚡ The Legend Journey
+> *"It doesn't matter where you start, it matters how much you build."*
 
-- 🔭 **Working on:** Habit Tracker & Netflix Clone.
-- 🌱 **Learning:** Next.js, TypeScript & DSA with Java.
-- 🎯 **Goal:** Software Development Internship 2024-25.
-- 💬 **Ask me about:** React, Node.js & Web Logic.
+I am a **B.Sc Computer Science** student with a unique story. My coding world began on a **mobile device** 📱. From writing simple scripts on a phone to building complex **Full Stack Applications**, my journey is fueled by pure passion and consistency.
 
----
-
-### 🛠️ My Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,java,git,vscode,vercel&perline=7" />
-</p>
+- 🚀 **Currently:** Mastering **Next.js 14** & **TypeScript**.
+- 🧠 **Focus:** Deep diving into **DSA with Java** for optimized problem solving.
+- 🏗️ **Building:** Scalable MERN projects that solve real-world problems.
+- 💡 **Belief:** Clean code is a masterpiece.
 
 ---
 
-### 📊 Language Distribution (Pie Chart) & Stats
+### 🛠️ Tech Arsenal (Categorized)
+
+<div align="center">
+
+| **Frontend** | **Backend & DB** | **Tools & Others** |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,java" /> |
+
+</div>
+
+---
+
+### 📊 Performance Analytics
 
 <p align="center">
-  <!-- Pie Chart Style for Languages -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveyaB&layout=donut&theme=tokyonight&hide_border=true" />
-  <!-- Overall Stats -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NaveyaB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <!-- Language Donut (Pie Chart) -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveyaB&layout=donut&theme=tokyonight&hide_border=true&title_color=00D1FF&text_color=ffffff" />
+  <!-- Contribution Stats -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NaveyaB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D1FF&text_color=ffffff" />
 </p>
 
 <p align="center">
@@ -49,30 +63,36 @@ I'm a **B.Sc Computer Science** student from TN, India 🇮🇳. My coding journ
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Excellence Badges
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NaveyaB&theme=dracula&no-frame=true&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NaveyaB&theme=tokyonight&no-frame=true&column=4&margin-w=20" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
-
+### 📈 Activity Graph
 <p align="center">
-<a href="https://www.linkedin.com/in/naveya-b-51b531350" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:naveyab2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/NaveyaB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveyaB&theme=react-dark&hide_border=true&color=00D1FF" width="100%" />
 </p>
+
+---
+
+### 📂 Featured Creations
+*Click the links to explore my top works*
+
+- 📊 **[Habit Tracker](https://github.com/NaveyaB)** - Full productivity suite with data viz.
+- 🎬 **[Netflix Clone](https://github.com/NaveyaB)** - High-fidelity UI with real-time API.
+- 🌱 **[Self-Improvement App](https://github.com/NaveyaB)** - All-in-one growth dashboard.
 
 ---
 
 <div align="center">
 
-<!-- Legendary Footer -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&background=0D1117&text=KEEP%20CODING%20🚀&fontSize=30&fontColor=58A6FF&fontAlignY=50"/>
+<!-- Legendary Footer with Reverse Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:00D1FF,100:091E3A&text=STAY%20CURIOUS.%20STAY%20CODING.&fontSize=25&fontColor=ffffff&fontAlignY=50"/>
 
 <br/>
 
-*"Code is the poetry of logic."*
+⭐ **If you like my journey, feel free to follow or star my repos!**
 
 </div>
