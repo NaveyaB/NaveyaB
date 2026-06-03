@@ -1,41 +1,60 @@
-# 👋 Hi, I'm Naveya B
-
-<div align="center">
-
-### Full Stack Developer in Progress 🚀 | MERN Stack Learner | Building Real-World Projects | Future Software Engineer
-
-**B.Sc Computer Science Student** 🎓 • **Dindigul, Tamil Nadu, India** 🇮🇳
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Naveya%20B&fontSize=90&fontColor=ffffff&desc=Full%20Stack%20Developer%20in%20Progress%20%F0%9F%9A%80&descSize=30&descColor=00ff88&animation=twinklingFont" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Naveya%20B&fontSize=90&fontColor=000000&desc=Full%20Stack%20Developer%20in%20Progress%20%F0%9F%9A%80&descSize=30&descColor=00aa55&animation=twinklingFont" />
+  <img alt="Naveya B Header" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Naveya%20B&fontSize=90&fontColor=ffffff&desc=Full%20Stack%20Developer%20in%20Progress%20%F0%9F%9A%80&descSize=30&descColor=00ff88&animation=twinklingFont" />
+</picture>
 
 ---
 
-## 💻 Tech Stack
+## 👋 About Me
 
 <div align="center">
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+```tsx
+const Developer = {
+  name: "Naveya B",
+  role: "Full Stack Developer in Progress 🚀",
+  location: "Dindigul, Tamil Nadu, India 🇮🇳",
+  education: "B.Sc Computer Science Student",
+  currentlyLearning: ["MERN Stack", "Next.js", "Real-World Projects"],
+  futureGoal: "Future Software Engineer 💻"
+};
+```
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+</div>
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+- 🔭 I'm currently studying **B.Sc Computer Science**
+- 🌱 I'm currently learning **MERN Stack (MongoDB, Express, React, Node.js)**
+- 💼 Building **Real-World Projects** to sharpen my skills
+- 🎯 Goal: Become a **Software Engineer**
+- 📫 Reach me: **naveyab2006@gmail.com**
+- 📍 Location: **Dindigul, Tamil Nadu, India** 🇮🇳
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### **Frontend**
+| HTML5 | CSS3 | JavaScript | React | Next.js |
+|:-----:|:----:|:----------:|:-----:|:-------:|
+| <img src="https://skillicons.dev/icons?theme=dark&=html" /> | <img src="https://skillicons.dev/icons?theme=dark&=css" /> | <img src="https://skillicons.dev/icons?theme=dark&=js" /> | <img src="https://skillicons.dev/icons?theme=dark&=react" /> | <img src="https://skillicons.dev/icons?theme=dark&=next" /> |
+
+### **Backend**
+| Node.js | Express.js | Java |
+|:-------:|:----------:|:----:|
+| <img src="https://skillicons.dev/icons?theme=dark&=nodejs" /> | <img src="https://skillicons.dev/icons?theme=dark&=express" /> | <img src="https://skillicons.dev/icons?theme=dark&=java" /> |
+
+### **Database**
+| MongoDB | MySQL |
+|:-------:|:-----:|
+| <img src="https://skillicons.dev/icons?theme=dark&=mongodb" /> | <img src="https://skillicons.dev/icons?theme=dark&=mysql" /> |
+
+### **Tools & Platforms**
+| Git | GitHub | VS Code | Postman | Vercel |
+|:---:|:------:|:-------:|:-------:|:------:|
+| <img src="https://skillicons.dev/icons?theme=dark&=git" /> | <img src="https://skillicons.dev/icons?theme=dark&=github" /> | <img src="https://skillicons.dev/icons?theme=dark&=vscode" /> | <img src="https://skillicons.dev/icons?theme=dark&=postman" /> | <img src="https://skillicons.dev/icons?theme=dark&=vercel" /> |
 
 </div>
 
@@ -45,13 +64,13 @@
 
 <div align="center">
 
-| Project | Description |
-|---------|-------------|
-| 📱 **Habit Tracker App** | Build better habits with tracking features |
-| 🎬 **Netflix Clone** | Full-stack streaming platform clone |
-| 🏢 **Marca-Rise Agency Website** | Professional agency website |
-| 🌱 **Self Improvement Web App** | Personal growth tracking tool |
-| 💼 **Portfolio Website** | My professional showcase site |
+| Project | Type | Status |
+|---------|------|--------|
+| 📱 **Habit Tracker App** | Web App | ✅ Built |
+| 🎬 **Netflix Clone** | Full-Stack | ✅ Built |
+| 🏢 **Marca-Rise Agency Website** | Website | ✅ Built |
+| 🌱 **Self Improvement Web App** | Web App | ✅ Built |
+| 💼 **Portfolio Website** | Portfolio | ✅ Built |
 
 </div>
 
@@ -61,23 +80,23 @@
 
 <div align="center">
 
-### 🏆 GitHub Trophies
+### 🔥 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=NaveyaB&theme=darkhub&row=1&column=7&no-bg=true&margin-w=15" alt="NaveyaB Trophies" />
 
-### 📈 Profile Views Counter
+### 📈 Profile Views
 <img src="https://profile-counter.glitch.me/NaveyaB/count.svg" alt="NaveyaB Profile Views" />
 
-### 🔥 GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveyaB&theme=dark&border_radius=8" alt="NaveyaB Streak Stats" />
+### 🔥 Streak Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveyaB&theme=dark&border_radius=10&stroke=ff6b6b&ring=4ecdc4&border=W&currStreakLabel=4ecdc4" alt="NaveyaB Streak" />
 
 ### 💻 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveyaB&layout=compact&theme=dark&hide_border=true" alt="NaveyaB Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveyaB&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="NaveyaB Languages" />
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=NaveyaB&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="NaveyaB Stats" />
+### 📊 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=NaveyaB&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&currStreakLabel=4ecdc4" alt="NaveyaB Stats" />
 
 ### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveyaB&theme=dark-gruvbox&hide_border=true" alt="NaveyaB Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveyaB&theme=dark-gruvbox&hide_border=true&area=true&area_color=4ecdc4" alt="NaveyaB Activity" />
 
 </div>
 
@@ -87,17 +106,30 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveya-b-51b531350)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveyab2006@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaveyaB)
+<table>
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/naveya-b-51b531350" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</td>
+<td align="center">
+<a href="mailto:naveyab2006@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/NaveyaB" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<div align="center">
-
-### 🌙 Thanks for visiting my profile!
-**Let's build something amazing together!** 🚀
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&text=Let%27s%20Build%20Something%20Amazing%20Together!&fontSize=40&fontColor=00ff88&animation=twinklingFont&desc=🚀%20Thank%20you%20for%20visiting!&descSize=25&descColor=ffffff" />
+</p>
