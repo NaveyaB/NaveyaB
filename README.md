@@ -226,4 +226,5 @@ If you're a student, developer, recruiter, or tech enthusiast, feel free to conn
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:36BCF7,100:0D1117"/>
 
 </div>
-```
+
+
