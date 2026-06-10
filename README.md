@@ -113,3 +113,15 @@
 <div align="center"> <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:you@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Send%20Mail-EA4335?style=for-the-badge&logo=gmail"/> </a> <a href="https://github.com/NaveyaB"> <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github"/> </a> </div>
 
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+build+something+awesome;Happy+Coding+🔥"/> </div> 
+
+<div align="center">
+
+---
+
+### ⭐ Thanks for Visiting
+
+If you like my work, feel free to connect and collaborate 🚀
+
+💻 Always learning | Building | Improving
+
+</div>
